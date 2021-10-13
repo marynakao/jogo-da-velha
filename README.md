@@ -2,7 +2,7 @@
 
 Projeto desenvolvido utilizando o Angular CLI, durante o bootcamp Tech PAN.
 
-É meu primeiro projeto trabalhando com o Angular.
+É meu primeiro projeto trabalhando com Angular.
 
 Para visualizar e ✨jogar✨  basta acessar o link: https://marynakao.github.io/jogo-da-velha/
 
