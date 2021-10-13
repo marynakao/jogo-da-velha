@@ -1,9 +1,15 @@
 # Jogo da Velha
 
 Projeto desenvolvido utilizando o Angular CLI, durante o bootcamp Tech PAN.
-É meu primeiro projeto em contato com o Angular e bem simples também.
 
-## Executar o server
+É meu primeiro projeto trabalhando com o Angular.
+
+Para visualizar e ✨jogar✨  basta acessar o link: https://marynakao.github.io/jogo-da-velha/
+
+![jogodavelha](https://user-images.githubusercontent.com/86077339/137221299-a81ff507-00d0-47d5-b965-67fd9ca871d3.png)
+
+
+## Deploy server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
